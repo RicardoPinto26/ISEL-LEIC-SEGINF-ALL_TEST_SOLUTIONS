@@ -32,3 +32,20 @@ C2, KsC2, Int2, , CA2, CA1
 
 ???
 
+7:
+
+Como um hash é uma operação unidirecional, é impossivel para um atacante que obtenha a informação guardada no server descobrir a password. No entanto, se usarmos uma solução por cifra simétrica/assimétrica, esta é uma operação bidirecional, o que leva a que seja sempre possivel descrifrar a password, desde que sejam conhecidos os dados necessários.
+
+8:
+
+Um esquema MAC necessita de menos poder computacional, mas não fornece não repúdio. Pelo contrário, um esquema de assinatura digital fornece não repúdio, mas tem um custo computacional mais elevado que o MAC.
+
+9:
+
+???
+
+10.1:
+
+TODO()
+
+10.2: TODO()
