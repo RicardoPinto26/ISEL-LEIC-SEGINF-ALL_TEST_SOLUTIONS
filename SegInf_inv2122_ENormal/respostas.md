@@ -48,4 +48,6 @@ Um esquema MAC necessita de menos poder computacional, mas não fornece não rep
 
 TODO()
 
-10.2: TODO()
+10.2:
+
+TODO()
