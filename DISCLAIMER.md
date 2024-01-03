@@ -1,0 +1,1 @@
+metade das respostas são cozinhadas pelo chatGPT.
